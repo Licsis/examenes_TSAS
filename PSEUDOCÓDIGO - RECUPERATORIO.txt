@@ -6,7 +6,7 @@ Ejercicio Recuperatorio:
  
 	IMC = peso en kilogramos / (altura en metros)^2
 ​
-El programa debe solicitar al usuario ingresar su peso y su altura, y luego mostrar el resultado del cálculo del IMC junto con una clasificación del estado 	nutricional, en donde se tiene los siguientes criterios:
+El programa debe solicitar al usuario ingresar su peso y su altura, y luego mostrar el resultado del cálculo del IMC junto con una clasificación del estado 	nutricional, en donde el estado nutricional se debe hacer en una función llamada "MiClasificacion" teniendo en cuenta los siguientes criterios:
 
 	IMC < 18.5: Bajo peso.
 	IMC >= 18.5 y IMC < 25: Peso normal.
